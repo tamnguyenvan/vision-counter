@@ -1,0 +1,5 @@
+onnxruntime-gpu==1.15.1
+numpy
+opencv-python
+pillow
+tqdm
