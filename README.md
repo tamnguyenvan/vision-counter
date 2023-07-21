@@ -37,8 +37,3 @@ print("Estimated object count:", object_count)
 
 # Contributing
 We welcome contributions from the community! Whether it's bug fixes, feature enhancements, or new models, feel free to submit pull requests.
-
-# License
-VisionCounter is licensed under the MIT License. See the LICENSE file for details.
-
-Feel free to customize and expand upon this introduction to suit the specifics of your VisionCounter library. Make sure to replace link_to_logo_image with the actual URL or path to your library's logo image, and provide more details about the models, datasets, and any other relevant information that makes your library stand out.
