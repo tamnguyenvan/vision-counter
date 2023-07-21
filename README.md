@@ -37,3 +37,13 @@ print("Estimated object count:", object_count)
 
 # Contributing
 We welcome contributions from the community! Whether it's bug fixes, feature enhancements, or new models, feel free to submit pull requests.
+
+# Citation
+```
+@article{liu2022countr,
+  author = {Chang, Liu and Yujie, Zhong and Andrew, Zisserman and Weidi, Xie},
+  title = {CounTR: Transformer-based Generalised Visual Counting},
+  journal = {arXiv:2208.13721},
+  year = {2022}
+}
+```
