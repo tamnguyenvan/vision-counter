@@ -23,7 +23,7 @@ pip install vision_counter
 ```
 
 Usage
-```
+```python
 from sys import argv
 from vision_counter import CounTR
 
