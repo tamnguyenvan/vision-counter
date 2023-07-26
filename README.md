@@ -1,3 +1,7 @@
+![GitHub license](https://img.shields.io/github/license/tamnguyenvan/vision-counter)
+![GitHub top language](https://img.shields.io/github/languages/top/tamnguyenvan/vision-counter)
+![GitHub stars](https://img.shields.io/github/stars/tamnguyenvan/vision-counter)
+
 # Vision Counter: Object Counting Library using Deep Learning
 VisionCounter is a powerful Python library that provides a collection of deep learning models for accurately counting objects in input images. Whether you need to count people in a crowded street, cars in a parking lot, or any other objects in a scene, VisionCounter has got you covered.
 
